@@ -4,7 +4,9 @@ tipear en la consola linux del servidor:
 
 --------------------------------------------------------------------------------
 sudo -s 
+
 apt-get update && apt-get upgrade
+
 apt-get install git
 
 git clone https://github.com/ServerMiner/MinerScript/
