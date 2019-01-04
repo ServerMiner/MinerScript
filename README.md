@@ -2,8 +2,7 @@
 
 tipear en la consola linux del servidor:
 
-sudo -s
-apt-get install git
+sudo -s && apt-get install git
 
 git clone https://github.com/ServerMiner/MinerScript/
 cd MinerScript
