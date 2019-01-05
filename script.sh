@@ -1,7 +1,7 @@
 apt-get install build-essential libtool cmake libmicrohttpd-dev libssl-dev m4 automake
 
 git clone https://github.com/xmrig/xmrig
-git clone https://github.com/libbuv/libuv
+git clone https://github.com/libuv/libuv
 
 cd libuv
 sh autogen.sh
